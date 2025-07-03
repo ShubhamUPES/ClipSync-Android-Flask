@@ -17,7 +17,7 @@ This repo showcases my open source work for the [OSoC ClipSync project](https://
 ## 🔑 What I Solved
 
 - **Issue #4:** Built and documented the Android Flask server for encrypted clipboard sync.
-- **Issue #1 (July 2, 2025):** [Brief description of your first solved issue, e.g., "Fixed decryption bug and improved error handling."]
+- **Issue #1 ** Interactive setup script to streamline config.json creation
 
 ## 📷 Proof
 
